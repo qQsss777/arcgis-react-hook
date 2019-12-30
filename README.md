@@ -1,4 +1,4 @@
-# ArcGIS API for JavaScript 4.x & React Hook API and Context API
+# ArcGIS API for JavaScript 4.x & React Hook and Context
 
 
 ![](hook.gif)
