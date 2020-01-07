@@ -22,7 +22,7 @@ const MySceneView = () => {
         setView(sceneview);
     }
 
-    useEffect(() => { lazyLoad() }, [view]);
+    useEffect(() => { lazyLoad() }, []);
 
     //update extent after data changes
     useEffect(() => { view && extent ? view.extent = extent : null }, [data]);
